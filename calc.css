@@ -1,0 +1,72 @@
+.parent{
+    position: relative;
+}
+
+.outerline{
+padding: 30px;
+    background-color: #ebf5ff;
+border-radius: 25px;
+  margin: auto;
+  width: 250px;
+  height: 290px;
+}
+
+
+.d{
+    background-color: #cce5ff;
+    padding: 10px;
+    width: 225px;
+    border-radius: 5px;
+    border: none;
+    height: 70px;
+    position: relative;
+    
+}
+.input{
+
+    position: absolute;
+    bottom:40px;
+    color: #4d8ac8;
+}
+.output{
+    position: absolute;
+    top:35px;
+    right: 10px;
+
+}
+.outerline button{
+   margin-top: 3px;
+   margin-bottom: 3px;
+   margin-left: 3px;
+   margin-right: 3px;
+    background-color: #cce5ff;
+    border-radius: 5px;
+    height: 35px;
+    width: 40px;
+    border: none;
+    font-weight: bold;
+
+}
+.firstrow button{
+height: 30px;
+width: 40px;
+background-color: #a2d0fa;
+color: #4d8ac8;
+}
+.secondrow .sb,.tr .sb,.fr .sb,.fifthr .sb{
+    background-color: #a2d0fa;
+    color: #4d8ac8;  
+}
+.firstrow #clear{
+    width: 90px;
+    background-color: #4d8ac8;
+    color: white;
+
+}
+
+
+#enterb{
+    width: 90px;
+    background-color: #4d8ac8;
+    color: white;
+}
